@@ -5,3 +5,5 @@ Este repositorio se crea para reunir snippets y plugins modificados de wordpress
 
 
 Por El Noógrafo, salud.
+
+22 de agosto de 2016
